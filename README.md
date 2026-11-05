@@ -39,7 +39,8 @@ My development mindset combines **engineering rigor** with **business acumen**: 
 ### 📊 Business Intelligence & Analytics
 * **[bi-portfolio-analytics](https://github.com/CauaRibeiroXY/bi-portfolio-analytics)** — Enterprise Power BI suite featuring star-schema dimensional modeling and advanced DAX across E-Commerce, Telecom Churn, People Analytics, and Retail Logistics.
 
-### 🏛️ Regulatory & Systems Engineering
+### 🏛️ Regulatory & Developer Tooling
+* **[dev-storage-cleaner](https://github.com/CauaRibeiroXY/dev-storage-cleaner)** — Safe storage cleaner & cache purger (NPM, Pip, Dumps, Temp) featuring an active Process Guard protecting games (The Sims) and development environments.
 * **[edital-radar](https://github.com/CauaRibeiroXY/edital-radar)** — Document compliance and certification management platform tailored for Brazilian public tenders (Lei nº 14.133/2021).
 * **[html-analyzer](https://github.com/CauaRibeiroXY/html-analyzer)** — Zero-dependency Java 17 command-line HTML tree depth analyzer and syntax validator using a Stack data structure.
 
