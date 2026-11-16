@@ -25,12 +25,14 @@ My development mindset combines **engineering rigor** with **business acumen**: 
 ## 🚀 Featured Production Repositories
 
 ### 🤖 Applied AI & Smart Engines
+* **[valora](https://github.com/CauaRibeiroXY/valora)** *(InvestAI)* — Intelligent portfolio decision engine (B3 & Fixed Income) built with Next.js 16, TypeScript, Tailwind CSS, and Google Gemini AI.
 * **[preco-certo](https://github.com/CauaRibeiroXY/preco-certo)** — Price monitoring engine & AI purchase decision advisor powered by Google Gemini and real-time marketplace scraping.
 * **[ConcursoCS](https://github.com/CauaRibeiroXY/ConcursoCS)** — Multi-LLM exam prep platform integrating Gemini 2.0 Flash, NVIDIA NIM, automated PDF ingestion, and Streamlit.
 * **[radar-concursos-ti](https://github.com/CauaRibeiroXY/radar-concursos-ti)** — Live public-sector tech exam tracker with an AI-driven profile compatibility matcher, gap analysis, and tactical study planner.
 * **[QAConcurso](https://github.com/CauaRibeiroXY/QAConcurso)** — Full-stack Flask study platform generating contextualized exam questions on-the-fly with Gemini AI and spaced repetition.
 
-### ⚙️ Autonomous Business Automations (n8n + AI)
+### ⚙️ Autonomous Business Automations & Messaging Bots
+* **[alerta-de-precos](https://github.com/CauaRibeiroXY/alerta-de-precos)** — Lightweight Node.js & TypeScript price-monitoring bot using WhatsApp WebSockets (`@whiskeysockets/baileys`), Amazon/Buscapé scraping, and Vitest.
 * **[propostas-ar](https://github.com/CauaRibeiroXY/propostas-ar)** — Autonomous B2B lead triage and custom commercial proposal engine built with n8n, Tally, Gemini, and Brevo.
 * **[trend-hunter](https://github.com/CauaRibeiroXY/trend-hunter)** — Autonomous market trend intelligence mining Google Trends, Perplexity AI, and multi-channel publishing.
 * **[shorts-pipeline](https://github.com/CauaRibeiroXY/shorts-pipeline)** — Multimodal audiovisual pipeline using FFprobe, Gemini Vision, and scheduled multi-platform publishing.
@@ -39,7 +41,8 @@ My development mindset combines **engineering rigor** with **business acumen**: 
 ### 📊 Business Intelligence & Analytics
 * **[bi-portfolio-analytics](https://github.com/CauaRibeiroXY/bi-portfolio-analytics)** — Enterprise Power BI suite featuring star-schema dimensional modeling and advanced DAX across E-Commerce, Telecom Churn, People Analytics, and Retail Logistics.
 
-### 🏛️ Regulatory & Developer Tooling
+### 🛠️ Product Engineering & Developer Tooling
+* **[controle](https://github.com/CauaRibeiroXY/controle)** — Cross-platform media, playback speed, and volume remote bridge (Android → Windows/macOS) over WebRTC P2P, Manifest V3 Browser Extension, PWA, and Vitest.
 * **[dev-storage-cleaner](https://github.com/CauaRibeiroXY/dev-storage-cleaner)** — Safe storage cleaner & cache purger (NPM, Pip, Dumps, Temp) featuring an active Process Guard protecting games (The Sims) and development environments.
 * **[edital-radar](https://github.com/CauaRibeiroXY/edital-radar)** — Document compliance and certification management platform tailored for Brazilian public tenders (Lei nº 14.133/2021).
 * **[html-analyzer](https://github.com/CauaRibeiroXY/html-analyzer)** — Zero-dependency Java 17 command-line HTML tree depth analyzer and syntax validator using a Stack data structure.
@@ -49,19 +52,19 @@ My development mindset combines **engineering rigor** with **business acumen**: 
 ## 🛠️ Technical Stack & Tooling
 
 ```
-Languages & Runtimes:  Python 3.11+, Java 17, JavaScript (ES6+), SQL, DAX, HTML5, CSS3
+Languages & Runtimes:  TypeScript, Python 3.11+, Node.js, JavaScript (ES6+), Java 17, SQL, DAX
 AI & LLMs:             Google Gemini (2.0 / 2.5), NVIDIA NIM, OpenAI API, Prompt Engineering
-Web & Backend:         Flask, Streamlit, Werkzeug, Tailwind CSS, Bootstrap 5, Jinja2
-Databases & Storage:   PostgreSQL, SQLite, Redis, Pandas, Power Query
-Automation & APIs:     n8n, RESTful APIs, Webhooks, Cloudflare Tunnels, Docker
-Business Intelligence: Microsoft Power BI, Star Schema, Dimensional Modeling, VertiPaq
+Web & Real-Time:       Next.js 16, React 19, Flask, Streamlit, WebRTC / PeerJS, Tailwind CSS, PWA
+Databases & Storage:   PostgreSQL (Supabase), SQLite, Redis, Pandas, Power Query
+Automation & Bots:     n8n, Baileys (WhatsApp), Webhooks, Cloudflare Tunnels, Vitest, Docker
+Business Intelligence: Microsoft Power BI, Star Schema, Dimensional Modeling, VertiPaq, D3.js
 ```
 
 ---
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/caua-ribeiro](https://www.linkedin.com) *(Update with your personal link)*
+- **LinkedIn:** [linkedin.com/in/caua-ribeiro-8a7553201](https://www.linkedin.com/in/caua-ribeiro-8a7553201/)
 - **GitHub:** [@CauaRibeiroXY](https://github.com/CauaRibeiroXY)
 - **Twitter/X:** [@CauaXY](https://twitter.com/CauaXY)
 
